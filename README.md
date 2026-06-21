@@ -46,6 +46,8 @@ _Math magicians is a website for all fans of mathematics. It is a Single Page Ap
 
 - Setup react app
 - Configure linter
+- Add Components.
+- Add Events.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,8 +55,7 @@ _Math magicians is a website for all fans of mathematics. It is a Single Page Ap
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Not Available!]()
-
+[Live Demo Link](https://math-magician-l9vh.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,6 +115,10 @@ To run the project, use the following : (Port 3000)
 ### Run tests
 
 To run tests, run the following command:
+
+```
+   npm run test
+```
 
 To check for css errors run:
 ```sh
@@ -196,11 +201,5 @@ In the project directory, you can run:
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-## Learn More
-
-Learn more at [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out [React documentation](https://reactjs.org/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
